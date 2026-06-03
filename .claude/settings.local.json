@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(powershell -command ' *)",
+      "Bash(identify images/vp/vp2.png images/vp/vp3.jpg images/vp/vp4.png images/vp/vp5.png)"
+    ]
+  }
+}
